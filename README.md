@@ -5,7 +5,7 @@
 - 結束機制（時間倒數或其他）。
 - 開始與重啟機制（按鈕應用）。
 - 音樂、音效、特效等運用。
-- 
+
 ### 目錄
 ![image](https://github.com/KyokoPie/unity1/blob/main/menu.png)
 ### 遊戲畫面
