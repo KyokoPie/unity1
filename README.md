@@ -1,4 +1,11 @@
-# Unity小遊戲作品
+# Unity小遊戲作品  
+
+- 尺寸480X720 PX ，匯出PC或MAC執行檔。
+- 得分機制（加數的加減分）。
+- 結束機制（時間倒數或其他）。
+- 開始與重啟機制（按鈕應用）。
+- 音樂、音效、特效等運用。
+- 
 ### 目錄
 ![image](https://github.com/KyokoPie/unity1/blob/main/menu.png)
 ### 遊戲畫面
